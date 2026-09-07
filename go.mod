@@ -1,4 +1,4 @@
-module github.com/sikozonpc/cinema
+module github.com/MohitSagar/cinema-booking
 
 go 1.25.3
 
